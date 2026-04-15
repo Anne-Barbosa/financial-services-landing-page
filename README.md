@@ -19,3 +19,4 @@ Preview
 This project was built as part of my journey transitioning into tech, focusing on front-end fundamentals.
 
 ## Live Demo
+https://anne-barbosa.github.io/financial-services-landing-page/
