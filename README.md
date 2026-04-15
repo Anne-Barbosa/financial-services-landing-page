@@ -20,3 +20,6 @@ This project was built as part of my journey transitioning into tech, focusing o
 
 ## Live Demo
 https://anne-barbosa.github.io/financial-services-landing-page/
+
+## Author
+Anne Barbosa
